@@ -1,7 +1,6 @@
-def alphabetize(arr)
-  # code here
-  
-  eequire "pry"
+
+    
+require "pry"
 def alphabetize(arr)
   # code here
   ea = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz" #ESPERANTO_ALPHABET
@@ -10,5 +9,4 @@ def alphabetize(arr)
       ea.index(letter)
     end
   end
-
 end
