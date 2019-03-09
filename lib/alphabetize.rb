@@ -1,7 +1,7 @@
 def alphabetize(arr)
   # code here
   
-  eequire "pry"
+  require "pry"
 def alphabetize(arr)
   # code here
   ea = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz" #ESPERANTO_ALPHABET
